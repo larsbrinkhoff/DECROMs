@@ -1,0 +1,47 @@
+This directory contains a repository of ROM images, as BINARY files.
+
+Please note that these ROMs contain software which may be subject to
+copyright.  They are provided here as a convenience to collectors of
+classic computers, for use only in repairing machines and peripherals.
+
+They are not here for free upgrades, and any misuse may result in
+them going away.  If you are the owner of the copyright on any of
+these images, and wish them to be removed, please contact me
+(pete at dunnington dot u hyphen net dot com).
+
+Contributions of additional PDP-11 ROM images are welcome.  See the
+file "Wanted!" for images I'd especially like to get.  See the file
+"ROMlist" for a description of each image.
+
+If you download any of these images, make sure you do so in binary
+mode, not text.  The size of each ROM is an exact power of two; if
+the file you end up with after download is not exactly right, your
+browser scrambled it.
+
+DEC ROM part numbers all begin with "23-".
+The next three digits+letter+digit are the ROM number, eg "123E2"
+In some parts lists, numbers are shown with a trailing "-00".
+However, my parts microfiches show hundreds of ROM numbers, and only
+about eight have digits other than "-00" so in general it's redundant.
+
+The final letter+digit gives the general ROM type and size:
+
+A indicates 4-bit bipolar PROM
+F indicates 4-bit bipolar PROM
+D ?? same as E?  (mine are MOS EPROMs)
+E indicates 8-bit MOS EPROM (or occasionally a masked ROM)
+J indicates a PAL or HAL
+K indicates a registered PAL
+L ??
+U ??
+
+A9 means   512 x 4 16-pin, eg 82S131, MMI6306, 75S171, 27S13 etc
+F1 means  1024 x 4 18-pin, eg 82S137, 24S41, MMI6353, 27S573, 27S33, etc
+E2 means  2048 bytes, eg a 2716
+E3 means  4096 bytes, eg a 2732
+E4 means  8192 bytes, eg a 2764 or MCM68766
+E5 means 16384 bytes, eg a 27128
+E6 means 32768 bytes, eg a 27256
+E7 means 65536 bytes, eg a 27512
+E8 means  128K bytes or  64K x 16, eg a 27C210
+E9 means  256K bytes or 128K x 16

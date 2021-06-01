@@ -1,0 +1,41 @@
+To Get:
+
+23-031E2    	     VT100 terminal ROM
+23-051L1      M7546  TQK50 Rev.D1 E3 ROM
+23-065L1      M7546  TQK50 Rev.J1 E3 ROM
+23-077E5      M8190  KDJ-11B (PDP11/73+) boot Version 6
+23-078E5      M8190  KDJ-11B (PDP11/73+) boot Version 6
+23-094E2             VT100 extra chargen
+23-095E2             VT100 extra chargen
+23-096E2             VT100 extra chargen
+23-097E2             VT132 extra chargen
+23-098E2             VT132 extra chargen
+23-139E2             VT100 terminal board ROM
+23-140E2             VT100 terminal board ROM
+23-170E5      M7546  TQK50 ROMs, rev.1
+23-171E5      M7546  TQK50 ROMs, rev.1
+23-180E2             VT132 terminal board ROM
+23-180E5      M7546  TQK50 ROMs, rev.2 (C1)
+23-181E2             VT132 terminal board ROM
+23-181E5      M7546  TQK50 ROMs, rev.2 (C1)
+23-182E2             VT132 terminal board ROM
+23-183E2             VT132 terminal board ROM
+23-228E4      M7792  DEUNA Port Module ROM
+23-229E4      M7792  DEUNA Port Module ROM
+23-287E8             VAXstation 4000 VLC (40-pin EPROM)
+23-288E8             VAXstation 4000 VLC (40-pin EPROM)
+23-368E9             KZMSA-F001 FCO (goes with PAL 23-E89J5)
+23-410E6      M7559  TKQ70 FCO TQK70-R001
+23-411E6      M7559  TKQ70 FCO TQK70-R001
+23-432E4      M7521  DELUA ROM, FC0 DELUA-I002  
+23-433E4      M7521  DELUA ROM, FC0 DELUA-I002  
+23-453E6    	     TK50Z-GA ROM
+23-453E4      M8189  KDF11-BJ (uPDP11/23) boot, last release
+23-454E4      M8189  KDF11-BJ (uPDP11/23) boot, last release
+
+What is:
+23-126E4
+23-127E4
+23-398E4
+23-399E4
+
