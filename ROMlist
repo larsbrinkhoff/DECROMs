@@ -59,6 +59,8 @@ ROM number  goes with   for module  size (K) socket function                    
                                                     031/32/33/34 = VT100
                                                     061/32/33/34 = VT125/105
 
+23-061E8                                128K        KA41-E (VAXServer 3100) SCSI
+
 23-065L1                M7546                       E3 ROM on TQK50 Rev.J1,
     	    	    	    	    	    	    FC0 TQK50-R002         
 
@@ -128,6 +130,12 @@ ROM number  goes with   for module  size (K) socket function                    
 23-117E5    23-116E5    M8190-B          16K E117   KDJ-11B (PDP11/73+) boot          1
                                                     Version 7
                                                     See also 077/078
+
+23-118E8    23-119E8                    128K        KA41-E (VAXServer 3100) boot      0
+                                                    V1.0
+
+23-119E8    23-118E8                    128K        KA41-E (VAXServer 3100) boot      1
+                                                    V1.0
 
 23-126E4    23-127E4	?????	    	  8K	    unknown - data welcome
 
