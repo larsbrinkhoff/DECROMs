@@ -137,6 +137,12 @@ ROM number  goes with   for module  size (K) socket function                    
 23-119E8    23-118E8                    128K        KA41-E (VAXServer 3100) boot      1
                                                     V1.0
 
+23-120E8    23-121E8                    128K        KA46-A (VAXStation 4000 60)       0
+                                                    V1.1-31E-V4.0
+
+23-121E8    23-120E8                    128K        KA46-A (VAXStation 4000 60)       1
+                                                    V1.1-31E-V4.0
+
 23-126E4    23-127E4	?????	    	  8K	    unknown - data welcome
 
 23-127E4    23-126E4	?????	    	  8K	    unknown - data welcome
