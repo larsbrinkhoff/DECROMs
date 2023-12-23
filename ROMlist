@@ -72,6 +72,10 @@ ROM number  goes with   for module  size (K) socket function                    
                                                     Version 6
                                                     See also 116/117
 
+23-086E8    23-087E8                    128K        KA24-A (VS2000)                   0
+
+23-087E8    23-086E8                    128K        KA24-A (VS2000)                   1
+
 23-088E8    23-089E8                    128K        MicroVAX 3100                     
                                                     KA42 V015
 
