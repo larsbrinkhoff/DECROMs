@@ -348,6 +348,12 @@ ROM number  goes with   for module  size (K) socket function                    
                                                     Firmware V8.0
                                                     238E4/239E4 = V7.0
 
+23-278e4    23-279e4                      8K        Letterwriter 100 Firmware
+                                                    lower 8k, 2764
+
+23-279e4    23-278e4                      8K        Letterwriter 100 Firmware
+                                                    upper 8k, 2764
+
 23-285E5    23-286E5    M7555            16K        RQDX3 T-11 code issue 3           0
                                                     up to RD53 only(?)
 
