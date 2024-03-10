@@ -273,9 +273,13 @@ ROM number  goes with   for module  size (K) socket function                    
                                                     RD51,RD52,RD53,RX50 support
                                                     Firmware V10.0E
 
+23-188E7    23-189E7                     64K        MicroVAX 3400 (KA-640)            0
+
 23-189E5    23-188E5    M8639-YB         16K        RQDX2 T-11 code, issue 2          1
                                                     RD51,RD52,RD53,RX50 support
                                                     Firmware V10,0E
+
+23-189E7    23-188E7                     64K        MicroVAX 3400 (KA-640)            1
 
 23-194E7    23-195E7                     64K        MicroVAX III                      
                                                     KA650-B VMB Rev.5.3
