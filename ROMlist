@@ -158,6 +158,9 @@ ROM number  goes with   for module  size (K) socket function                    
 
 23-127E4    23-126E4	?????	    	  8K	    unknown - data welcome
 
+23-130E0                M7638           128K        DECSystem 5000 I/O Board ROM
+                                                    (CVAX diagnostic processor)
+
 23-134E8    23-135E8                    128K        MicroVAX 3100                     
                                                     KA43 V012
 
