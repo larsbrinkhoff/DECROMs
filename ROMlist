@@ -56,8 +56,14 @@ ROM number  goes with   for module  size (K) socket function                    
 23-054E7                                 64K        VT320 code ROM                    
 
 23-056e6    23-058e6                     16K E22    VT240 ROM1 HI for T-11            1
-23-057e6    23-059e6                     16K E21      "   ROM2 HI   "                 1
-23-058e6    23-056e6                     16K E20      "   ROM1 LO   "                 0
+
+23-056E8    23-057E8    M7635           128K        KN210 QBUS MIPS Boot ROM 1
+
+23-057e6    23-059e6                     16K E21    VT240 ROM2 HI for T-11            1
+
+23-057E8    23-056E8    M7635           128K        KN210 QBUS MIPS Boot ROM 2
+
+23-058e6    23-056e6                     16K E20    VT240 ROM1 LO for T-11            0
 23-059e6    23-057e6                     16K E19      "   ROM2 LO   "                 0
 
 23-008e6                                 16K E100   VT240 ROM7 for 8085
