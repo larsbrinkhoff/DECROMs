@@ -129,6 +129,12 @@ ROM number  goes with   for module  size (K) socket function                    
 23-111E6    23-110E6    M7606            32K        uVax2 boot                        1
                                                     (this one nearest edge of PCB)
 
+23-111E8    23-112E8                    128K        CPU KA43 Series BA42A  VS32A-BA   0
+                                                    (VAXStation 3100)
+
+23-112E8    23-111E8                    128K        CPU KA43 Series BA42A  VS32A-BA   1
+                                                    (VAXStation 3100)
+
 23-115E4    23-116E4                      8K        Pro350 bootstrap                  
                                                     in MCM68766C
                                                     (8k x 8, 24-pin)
