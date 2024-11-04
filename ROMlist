@@ -129,6 +129,12 @@ ROM number  goes with   for module  size (K) socket function                    
 23-111E6    23-110E6    M7606            32K        uVax2 boot                        1
                                                     (this one nearest edge of PCB)
 
+23-111E8    23-112E8                    128K        VAXStation 3100                   0
+                                                    KA43-A V1.0
+
+23-112E8    23-111E8                    128K        VAXStation 3100                   1
+                                                    KA43-A V1.0
+
 23-115E4    23-116E4                      8K        Pro350 bootstrap                  
                                                     in MCM68766C
                                                     (8k x 8, 24-pin)
@@ -167,15 +173,15 @@ ROM number  goes with   for module  size (K) socket function                    
 23-130E0                M7638           128K        DECSystem 5000 I/O Board ROM
                                                     (CVAX diagnostic processor)
 
-23-134E8    23-135E8                    128K        MicroVAX 3100                     
-                                                    KA43 V012
+23-134E8    23-135E8                    128K        VAXStation 3100                     
+                                                    KA43-A V1.2
 
 23-134K5                M7169                E68    VCB02 framebuffer PAL
     	    	    	    	    	    	    (VAXstation II)
 						    See also 23-419/420E4, 23-153/4D2
 
-23-135E8    23-134E8                    128K        MicroVAX 3100                     
-                                                    KA43 V012
+23-135E8    23-134E8                    128K        VAXStation 3100                     
+                                                    KA43-A V1.2
 
 23-139E2    095/6,140                     2K ROM2   Terminalboard ROM, VT100-WC,-WK   
                                                     095/096/139/140 = VT1xxAC
