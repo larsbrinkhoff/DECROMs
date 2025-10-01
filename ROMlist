@@ -335,6 +335,9 @@ ROM number  goes with   for module  size (K) socket function                    
 23-239E4    23-238E4    M8189-BE          8K        KDF11-BE (µPDP11) Boot            1
                                                     See also 183/184,339/340
 
+23-242E8                                128K        Cougar SPX
+                                                    VAXStation 4000/90 Graphics
+
 23-243E5    23-244E5    M7555            16K        RQDX3 T-11 code issue 2           0
 
 23-244E5    23-243E5    M7555            16K        RQDX3 T-11 code issue 2           1
