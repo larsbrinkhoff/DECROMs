@@ -1,6 +1,8 @@
 ROM number  goes with   for module  size (K) socket function                          High byte
 ==========  =========   ==========  ======== ====== ===============================   =========
 
+21-197E8                                128K        DSV11 Sync I/O ROM
+
 23-015E8                                128K        MicroVAX III                      
                                                     KA655-A VMB Rev.5.3
                                                     See also 23-194/5E7
