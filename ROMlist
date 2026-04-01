@@ -110,6 +110,12 @@ ROM number  goes with   for module  size (K) socket function                    
                                                     Add CharGen 094 for -WC/WK
                                                     see also 097/098,180-183
 
+23-096E8    23-097E8                    128K        DECstation 5000/200               1
+                                                    KN02-AA-H_V5.3C
+
+23-097E8    23-096E8                    128K        DECstation 5000/200               0
+                                                    KN02-AA-L-V5.3C
+
 23-096E2    095/97/98                     2K ROM1   Terminalboard ROM, VT100          
                                                     095/096/139/140 = VT1xxAC
                                                     Add CharGen 094 for -WC/WK
@@ -513,6 +519,12 @@ ROM number  goes with   for module  size (K) socket function                    
 
 23-530E6    23-529E6    M7554 etc        32K        KDJ11-SD (DECserver 500) Boot     1
                                                     See also 23-261E5/262E5
+
+23-578E6    23-579E6                     32K        DECstation 5000/200
+                                                    PMAD-AA-V5.3A
+
+23-579E6    23-578E6                     32K        DECstation 5000/200
+                                                    PMAZ-AA-V5.3B
 
 5015538                                   4K        DECPro 380 IEE488 controller
 
