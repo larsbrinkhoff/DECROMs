@@ -343,6 +343,9 @@ ROM number  goes with   for module  size (K) socket function                    
 23-239E4    23-238E4    M8189-BE          8K        KDF11-BE (µPDP11) Boot            1
                                                     See also 183/184,339/340
 
+23-241E7                                 64K        PMAG-BA 2D Graphics card
+                                                    V5.3_ABO-1990
+
 23-242E8                                128K        Cougar SPX
                                                     VAXStation 4000/90 Graphics
 
