@@ -125,6 +125,12 @@ ROM number  goes with   for module  size (K) socket function                    
                                                     Add CharGen 094 for -WC/WK
                                                     see also 097/098,180-183
 
+23-108E8    23-109E8                    128K        DECstation 3100                   1
+                                                    KN01-V7.02
+
+23-109E8    23-108E8                    128K        DECstation 3100                   0
+                                                    KN01-V7.02
+
 23-110E6    23-111E6    M7606            32K        uVax2 boot                        0
                                                     (this one nearest centre of PCB)
 
