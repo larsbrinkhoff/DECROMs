@@ -466,6 +466,8 @@ ROM number  goes with   for module  size (K) socket function                    
 
 23-399E4    23-398E4	?????	    	  8K	    unknown - data welcome
 
+23-410E5                                 16K E15    DE100 network card, V1.1
+
 23-410E6    23-411E6    M7559            32K E27    TKQ70 FCO TQK70-R001              
                                                     410 at E27, 411 at E28
 
