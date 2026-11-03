@@ -273,6 +273,12 @@ ROM number  goes with   for module  size (K) socket function                    
                                                     RD51,RD52,RD53,RX50 support
                                                     Firmware V10.0D
 
+23-179E9                M7626            128K       VAX 4000 Model 200                0
+                                                    KA660-A V3.7
+
+23-180E9                M7626            128K       VAX 4000 Model 200                1
+                                                    KA660-A V3.7
+
 23-180E2    181/2/3                       2K ROM0   Terminalboard ROM, VT132          
                                                     see also 095-098,181-183
 
