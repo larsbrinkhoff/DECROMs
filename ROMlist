@@ -79,6 +79,12 @@ ROM number  goes with   for module  size (K) socket function                    
 23-065L1                M7546                       E3 ROM on TQK50 Rev.J1,
     	    	    	    	    	    	    FC0 TQK50-R002         
 
+23-068E7                M7620            64K        MicroVAX 3500                     0
+                                                    KA650-A Rev.1.2
+
+23-069E7                M7620            64K        MicroVAX 3500                     1
+                                                    KA650-A Rev.1.2
+
 23-077E5    23-078E5    M8190-B          16K E116   KDJ-11B (PDP11/73+) boot          0
                                                     Version 6
                                                     See also 116/117
@@ -287,12 +293,12 @@ ROM number  goes with   for module  size (K) socket function                    
 23-183E2    180/1/2                       2K ROM3   Terminalboard ROM, VT132          
                                                     see also 095-098,180-182
 
-23-183E4    23-184E4    M8189-BF          8K        KDF11-BF (µPDP11) Boot            0
+23-183E4    23-184E4    M8189-BF          8K        KDF11-BF (ï¿½PDP11) Boot            0
                                                     See also 157/158, 238/239,
                                                              339/340
                                                     (-BE v.0.9)ok:BDV11 (mod)
 
-23-184E4    23-183E4    M8189-BF          8K        KDF11-BF (µPDP11) Boot            1
+23-184E4    23-183E4    M8189-BF          8K        KDF11-BF (ï¿½PDP11) Boot            1
                                                     See also 157/158, 238/239,
                                                              339/340, 380/381,
                                                              453/454
@@ -343,10 +349,10 @@ ROM number  goes with   for module  size (K) socket function                    
 
 23-229E4    23-228E4	M7792	    	  8K	    DEUNA Port Module
 
-23-238E4    23-239E4    M8189-BE          8K        KDF11-BE (µPDP11) Boot            0
+23-238E4    23-239E4    M8189-BE          8K        KDF11-BE (ï¿½PDP11) Boot            0
                                                     See also 183/184,339/340
 
-23-239E4    23-238E4    M8189-BE          8K        KDF11-BE (µPDP11) Boot            1
+23-239E4    23-238E4    M8189-BE          8K        KDF11-BE (ï¿½PDP11) Boot            1
                                                     See also 183/184,339/340
 
 23-241E7                                 64K        PMAG-BA 2D Graphics card
